@@ -1,2 +1,2 @@
 # SED-just-started
-just started learing
+just started learning
